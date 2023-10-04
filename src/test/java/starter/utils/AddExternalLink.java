@@ -9,7 +9,7 @@ import net.thucydides.model.domain.TestOutcome;
 import net.thucydides.model.util.EnvironmentVariables;
 import org.openqa.selenium.WebDriver;
 
-public class AddMoonVideoExternalLink implements AfterAWebdriverScenario {
+public class AddExternalLink implements AfterAWebdriverScenario {
 
     private static final String URL = "https://www.google.com";
 
